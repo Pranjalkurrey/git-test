@@ -8,6 +8,9 @@
 
 /* 
 {github and git connect}
+# add local repositary to online git {git remote add origin <repositary URL> }
+# to push a project to a folder {git push -u origin master}
+# go to a folder and hit { git clone <repositary url>  }
 
 
 */
