@@ -1,3 +1,6 @@
+
+######step 1
+
 /*learning git
 # to setup git => go to folder and type git init
 # to see the status of project => type git status
@@ -6,6 +9,7 @@
 # to go back to last commit => git reset <file> ,git reset (this will revert to the last file)
 */
 
+######step 2
 /* 
 {github and git connect}
 # add local repositary to online git {git remote add origin <repositary URL> }
@@ -14,3 +18,19 @@
 
 
 */
+#####step 3
+{Node commands}
+
+npm init => for setup of package.json
+npm install lite-server --save-dev(save dev is for saving the nodu module in the package.json) => installs the node lite server
+-> after installing node lite server go to script of package.json and edit
+"scripts"{
+    "start":"npm run lite",
+    "test":no change,
+    "lite":"lite-server"
+}
+
+######step 4
+setup up the file .gitignore  
+go to .gitignore 
+type node_modules (this will exclude the node_module from being commited to git repositary)
