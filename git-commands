@@ -3,5 +3,11 @@
 # to see the status of project => type git status
 # to add all the file to git repositary => git add . 
 # to see a breif of log commits => git log --oneline
-# 
+# to go back to last commit => git reset <file> ,git reset (this will revert to the last file)
+*/
+
+/* 
+{github and git connect}
+
+
 */
