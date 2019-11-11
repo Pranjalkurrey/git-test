@@ -1,0 +1,7 @@
+/*learning git
+# to setup git => go to folder and type git init
+# to see the status of project => type git status
+# to add all the file to git repositary => git add . 
+# to see a breif of log commits => git log --oneline
+# 
+*/
